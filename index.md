@@ -8,3 +8,7 @@
 <br>
 *Hello, **world**!*
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$ git init
+Initialized empty Git reposiory
+```
